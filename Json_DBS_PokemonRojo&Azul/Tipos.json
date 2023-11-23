@@ -1,0 +1,103 @@
+[
+  {
+        "tipo": "Normal",
+        "ventajas": "Ninguna",
+        "debilidades": ["Lucha"],
+        "inmunidad": ["Fantasma"],
+        "movimientos": ["Afilar", "Agarre", "Amortiguador", "Anulación", "Arañazo",  "Atadura",  "Ataque arena",  "Ataque furia",  "Ataque rápido",  "Autodestrucción", 
+        "Beso amoroso", "Bomba huevo",  "Bomba sónica", "Cabezazo", "Canto", "Chirrido", "Clavo cañón", "Constricción", "Conversión", "Cornada", "Corte", "Cuchillada",
+         "Danza espada","Derribo", "Desarrollo", "Deslumbrar", "Destello", "Destructor", "Dia de pago", "Doble bofetón", "Doble equipo", "Doble filo", "Explosión", "Foco energía", 
+         "Fortaleza","Fuerza","Furia","Golpe","Golpe cabeza","Golpe cuerpo","Golpes furia","Gruñido","Guillotina","Hipercolmillo","Hiperrayo","Látigo","Malicioso","Metrónomo", 
+         "Megapatada", "Megapuño", "Mordisco", "Pantallahumo", "Perforador", "Pisotón", "Placaje", "Portazo", "Puño cometa", "Puño mareo", "Rapidez", "Recuperación", "Reducción", "Remolino", 
+         "Restricción", "Rizo defensa", "Rugido", "Salpicadura", "Superdiente", "Supersónico", "Sustituto", "Tornado", "Transformación", "Triataque", "Venganza", "Viento cortante"]
+      },
+      {
+        "tipo": "Fuego",
+        "ventajas": ["Planta", "Hielo", "Bicho"],
+        "debilidades": ["Agua", "Roca", "Tierra"],
+        "movimientos": ["Ascuas", "Giro fuego", "Lanzallamas", "Llamarada", "Puño fuego"]
+        },
+      {
+        "tipo": "Agua",
+        "ventajas": ["Fuego", "Roca", "Tierra"],
+        "debilidades": ["Electrico", "Planta"],
+        "movimientos": ["Burbuja", "Cascada", "Hidrobomba", "Martillazo", "Pistola agua", "Rayo burbuja", "Refugio", "Surf", "Tenaza"]
+      },
+      {
+        "tipo": "Electrico",
+        "ventajas": ["Agua", "Volador"],
+        "debilidades": ["Tierra"],
+        "movimientos": ["Impactrueno", "Onda trueno", "Puño trueno", "Rayo", "Trueno"]
+      },
+      {
+        "tipo": "Planta",
+        "ventajas": ["Agua", "Tierra", "Roca"],
+        "debilidades": ["Fuego", "Hielo", "Veneno", "Volador", "Bicho"],
+        "movimientos": ["Absorber", "Danza petalo", "Drenadoras", "Espora", "Hoja afilada", "Latigo cepa", "Megaagotar", "Paralizador", "Rayo solar", "Somnifero"]
+        
+      },
+      {
+        "tipo": "Hielo",
+        "ventajas": ["Planta", "Tierra", "Volador", "Dragón"],
+        "debilidades": ["Fuego", "Lucha", "Roca", "Acero"],
+        "movimientos": ["Neblina", "Niebla", "Puño hielo", "Rayo aurora", "Rayo hielo", "Ventisca"]
+        
+      },
+      {
+        "tipo": "Lucha",
+        "ventajas": ["Normal", "Hielo", "Roca"],
+        "debilidades": ["Volador", "Psiquico"],
+        "movimientos": ["Contador", "Doble patada", "Patada baja", "Patada giro", "Patada salto", "Patada salto alta", "Movimiento sismico", "Sumision"]
+      },
+      {
+        "tipo": "Veneno",
+        "ventajas": ["Planta"],
+        "debilidades": ["Tierra", "Psiquico"],
+        "movimientos": ["Acido", "Armadura acida", "Gas venenoso", "Picotazo veneno", "Polucion", "Polvo veneno", "Residuos", "Toxico"]
+      },
+      {
+        "tipo": "Tierra",
+        "ventajas": ["Fuego", "Electrico", "Veneno", "Roca", "Acero"],
+        "debilidades": ["Agua", "Planta", "Hielo"],
+        "movimientos": ["Excavar", "Fisura", "Hueso palo", "Huesomerang", "Terremoto"]
+      },
+      {
+        "tipo": "Volador",
+        "ventajas": ["Planta", "Lucha", "Bicho"],
+        "debilidades": ["Electrico", "Hielo", "Roca"],
+        "movimientos": ["Excavar", "Fisura", "Hueso palo", "Huesomerang", "Terremoto"]
+      },
+      {
+        "tipo": "Psiquico",
+        "ventajas": ["Lucha", "Veneno"],
+        "debilidades": ["Bicho"],
+        "inmunidad": ["Fantasma"],
+        "movimientos": ["Agilidad", "Amnesia", "Barrera", "Comesueños", "Confusion",  "Descanso",  "Hipnosis",  "Kinetico",  "Meditacion",  "Pantalla luz", 
+        "Psicoonda", "Psicorrayo",  "Psiquico", "Reflejo", "Teletransporte"]
+      },
+      {
+        "tipo": "Bicho",
+        "ventajas": ["Veneno", "Planta", "Psiquico"],
+        "debilidades": ["Veneno", "Fuego", "Roca"],
+        "movimientos": ["Chupavidas", "Disparo demora", "Doble ataque", "Pin misil"]
+      },
+      {
+        "tipo": "Roca",
+        "ventajas": ["Fuego", "Hielo", "Volador", "Bicho"],
+        "debilidades": ["Agua", "Planta", "Lucha", "Tierra"],
+        "movimientos": ["Avalancha", "Lanzarrocas"]
+      },
+      {
+        "tipo": "Fantasma",
+        "ventajas": ["Fantasma"],
+        "debilidades": ["Fantasma"],
+        "inmunidad": ["Normal", "Lucha"],
+        "movimientos": ["Lenguetazo", "Rayo confuso", "Tinieblas"]
+      },
+      {
+        "tipo": "Dragón",
+        "ventajas": ["Dragón"],
+        "debilidades": ["Hielo", "Dragón"],
+        "movimientos": ["Furia Dragon"]
+      }
+    ]

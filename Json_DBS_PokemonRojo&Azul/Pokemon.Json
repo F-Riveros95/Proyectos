@@ -1,0 +1,1059 @@
+[
+  {
+      "id": 1,
+      "nombre": "Bulbasaur",
+      "tipo": ["Planta", "Veneno"],
+      "alt_metros": 0.7,
+      "peso_kg": 6.9
+    },
+    {
+      "id": 2,
+      "nombre": "Ivysaur",
+      "tipo": ["Planta", "Veneno"],
+      "alt_metros": 1.0,
+      "peso_kg": 13.0
+    },
+    {
+      "id": 3,
+      "nombre": "Venusaur",
+      "tipo": ["Planta", "Veneno"],
+      "alt_metros": 2.0,
+      "peso_kg": 100.0
+    },
+    {
+      "id": 4,
+      "nombre": "Charmander",
+      "tipo": ["Fuego"],
+      "alt_metros": 0.6,
+      "peso_kg": 8.5
+    },
+    {
+      "id": 5,
+      "nombre": "Charmeleon",
+      "tipo": ["Fuego"],
+      "alt_metros": 1.1,
+      "peso_kg": 19.0
+    },
+    {
+      "id": 6,
+      "nombre": "Charizard",
+      "tipo": ["Fuego", "Volador"],
+      "alt_metros": 1.7,
+      "peso_kg": 90.5
+    },
+    {
+      "id": 7,
+      "nombre": "Squirtle",
+      "tipo": ["Agua"],
+      "alt_metros": 0.5,
+      "peso_kg": 9.0
+    },
+    {
+      "id": 8,
+      "nombre": "Wartortle",
+      "tipo": ["Agua"],
+      "alt_metros": 1.0,
+      "peso_kg": 22.5
+    },
+    {
+      "id": 9,
+      "nombre": "Blastoise",
+      "tipo": ["Agua"],
+      "alt_metros": 1.6,
+      "peso_kg": 85.5
+    },
+    {
+      "id": 10,
+      "nombre": "Caterpie",
+      "tipo": ["Bicho"],
+      "alt_metros": 0.3,
+      "peso_kg": 2.9
+    },
+    {
+      "id": 11,
+      "nombre": "Metapod",
+      "tipo": ["Bicho"],
+      "alt_metros": 0.7,
+      "peso_kg": 9.9
+    },
+    {
+      "id": 12,
+      "nombre": "Butterfree",
+      "tipo": ["Bicho", "Volador"],
+      "alt_metros": 1.1,
+      "peso_kg": 32.0
+    },
+    {
+      "id": 13,
+      "nombre": "Weedle",
+      "tipo": ["Bicho", "Veneno"],
+      "alt_metros": 0.3,
+      "peso_kg": 3.2
+    },
+    {
+      "id": 14,
+      "nombre": "Kakuna",
+      "tipo": ["Bicho", "Veneno"],
+      "alt_metros": 0.6,
+      "peso_kg": 10.0
+    },
+    {
+      "id": 15,
+      "nombre": "Beedrill",
+      "tipo": ["Bicho", "Veneno"],
+      "alt_metros": 1.0,
+      "peso_kg": 29.5
+    },
+    {
+      "id": 16,
+      "nombre": "Pidgey",
+      "tipo": ["Normal", "Volador"],
+      "alt_metros": 0.3,
+      "peso_kg": 1.8
+    },
+    {
+      "id": 17,
+      "nombre": "Pidgeotto",
+      "tipo": ["Normal", "Volador"],
+      "alt_metros": 1.1,
+      "peso_kg": 30.0
+    },
+    {
+      "id": 18,
+      "nombre": "Pidgeot",
+      "tipo": ["Normal", "Volador"],
+      "alt_metros": 1.5,
+      "peso_kg": 39.5
+    },
+    {
+      "id": 19,
+      "nombre": "Rattata",
+      "tipo": ["Normal"],
+      "alt_metros": 0.3,
+      "peso_kg": 3.5
+    },
+    {
+      "id": 20,
+      "nombre": "Raticate",
+      "tipo": ["Normal"],
+      "alt_metros": 0.7,
+      "peso_kg": 18.5
+    },
+    {
+      "id": 21,
+      "nombre": "Spearow",
+      "tipo": ["Normal", "Volador"],
+      "alt_metros": 0.3,
+      "peso_kg": 2.0
+    },
+    {
+      "id": 22,
+      "nombre": "Fearow",
+      "tipo": ["Normal", "Volador"],
+      "alt_metros": 1.2,
+      "peso_kg": 38.0
+    },
+    {
+      "id": 23,
+      "nombre": "Ekans",
+      "tipo": ["Veneno"],
+      "alt_metros": 2.0,
+      "peso_kg": 6.9
+    },
+    {
+      "id": 24,
+      "nombre": "Arbok",
+      "tipo": ["Veneno"],
+      "alt_metros": 3.5,
+      "peso_kg": 65.0
+    },
+    {
+      "id": 25,
+      "nombre": "Pikachu",
+      "tipo": ["Electrico"],
+      "alt_metros": 0.4,
+      "peso_kg": 6.0
+    },
+    {
+      "id": 26,
+      "nombre": "Raichu",
+      "tipo": ["Electrico"],
+      "alt_metros": 0.8,
+      "peso_kg": 30.0
+    },
+    {
+      "id": 27,
+      "nombre": "Sandshrew",
+      "tipo": ["Tierra"],
+      "alt_metros": 0.6,
+      "peso_kg": 12.0
+    },
+    {
+      "id": 28,
+      "nombre": "Sandslash",
+      "tipo": ["Tierra"],
+      "alt_metros": 1.0,
+      "peso_kg": 29.5
+    },
+    {
+      "id": 29,
+      "nombre": "Nidoran♀",
+      "tipo": ["Veneno"],
+      "alt_metros": 0.4,
+      "peso_kg": 7.0
+    },
+    {
+      "id": 30,
+      "nombre": "Nidorina",
+      "tipo": ["Veneno"],
+      "alt_metros": 0.8,
+      "peso_kg": 20.0
+    },
+    {
+      "id": 31,
+      "nombre": "Nidoqueen",
+      "tipo": ["Veneno", "Tierra"],
+      "alt_metros": 1.3,
+      "peso_kg": 60.0
+    },
+    {
+      "id": 32,
+      "nombre": "Nidoran♂",
+      "tipo": ["Veneno"],
+      "alt_metros": 0.5,
+      "peso_kg": 9.0
+    },
+    {
+      "id": 33,
+      "nombre": "Nidorino",
+      "tipo": ["Veneno"],
+      "alt_metros": 0.9,
+      "peso_kg": 19.5
+    },
+    {
+      "id": 34,
+      "nombre": "Nidoking",
+      "tipo": ["Veneno", "Tierra"],
+      "alt_metros": 1.4,
+      "peso_kg": 62.0
+    },
+    {
+      "id": 35,
+      "nombre": "Clefairy",
+      "tipo": ["Normal"],
+      "alt_metros": 0.6,
+      "peso_kg": 7.5
+    },
+    {
+      "id": 36,
+      "nombre": "Clefable",
+      "tipo": ["Normal"],
+      "alt_metros": 1.3,
+      "peso_kg": 40.0
+    },
+    {
+      "id": 37,
+      "nombre": "Vulpix",
+      "tipo": ["Fuego"],
+      "alt_metros": 0.6,
+      "peso_kg": 9.9
+    },
+    {
+      "id": 38,
+      "nombre": "Ninetales",
+      "tipo": ["Fuego"],
+      "alt_metros": 1.1,
+      "peso_kg": 19.9
+    },
+    {
+      "id": 39,
+      "nombre": "Jigglypuff",
+      "tipo": ["Normal"],
+      "alt_metros": 0.5,
+      "peso_kg": 5.5
+    },
+    {
+      "id": 40,
+      "nombre": "Wigglytuff",
+      "tipo": ["Normal"],
+      "alt_metros": 1.0,
+      "peso_kg": 12.0
+    },
+    {
+      "id": 41,
+      "nombre": "Zubat",
+      "tipo": ["Veneno", "Volador"],
+      "alt_metros": 0.8,
+      "peso_kg": 7.5
+    },
+    {
+      "id": 42,
+      "nombre": "Golbat",
+      "tipo": ["Veneno", "Volador"],
+      "alt_metros": 1.6,
+      "peso_kg": 55.0
+    },
+    {
+      "id": 43,
+      "nombre": "Oddish",
+      "tipo": ["Planta", "Veneno"],
+      "alt_metros": 0.5,
+      "peso_kg": 5.4
+    },
+    {
+      "id": 44,
+      "nombre": "Gloom",
+      "tipo": ["Planta", "Veneno"],
+      "alt_metros": 0.8,
+      "peso_kg": 8.6
+    },
+    {
+      "id": 45,
+      "nombre": "Vileplume",
+      "tipo": ["Planta", "Veneno"],
+      "alt_metros": 1.2,
+      "peso_kg": 18.6
+    },
+    {
+      "id": 46,
+      "nombre": "Paras",
+      "tipo": ["Bicho", "Planta"],
+      "alt_metros": 0.3,
+      "peso_kg": 5.4
+    },
+    {
+      "id": 47,
+      "nombre": "Parasect",
+      "tipo": ["Bicho", "Planta"],
+      "alt_metros": 1.0,
+      "peso_kg": 29.5
+    },
+    {
+      "id": 48,
+      "nombre": "Venonat",
+      "tipo": ["Bicho", "Veneno"],
+      "alt_metros": 1.0,
+      "peso_kg": 30.0
+    },
+    {
+      "id": 49,
+      "nombre": "Venomoth",
+      "tipo": ["Bicho", "Veneno"],
+      "alt_metros": 1.5,
+      "peso_kg": 12.5
+    },
+    {
+      "id": 50,
+      "nombre": "Diglett",
+      "tipo": ["Tierra"],
+      "alt_metros": 0.2,
+      "peso_kg": 0.8
+    },
+    {
+      "id": 51,
+      "nombre": "Dugtrio",
+      "tipo": ["Tierra"],
+      "alt_metros": 0.7,
+      "peso_kg": 33.3
+    },
+    {
+      "id": 52,
+      "nombre": "Meowth",
+      "tipo": ["Normal"],
+      "alt_metros": 0.4,
+      "peso_kg": 4.2
+    },
+    {
+      "id": 53,
+      "nombre": "Persian",
+      "tipo": ["Normal"],
+      "alt_metros": 1.0,
+      "peso_kg": 32.0
+    },
+    {
+      "id": 54,
+      "nombre": "Psyduck",
+      "tipo": ["Agua"],
+      "alt_metros": 0.8,
+      "peso_kg": 19.6
+    },
+    {
+      "id": 55,
+      "nombre": "Golduck",
+      "tipo": ["Agua"],
+      "alt_metros": 1.7,
+      "peso_kg": 76.6
+    },
+    {
+      "id": 56,
+      "nombre": "Mankey",
+      "tipo": ["Lucha"],
+      "alt_metros": 0.5,
+      "peso_kg": 28.0
+    },
+    {
+      "id": 57,
+      "nombre": "Primeape",
+      "tipo": ["Lucha"],
+      "alt_metros": 1.0,
+      "peso_kg": 32.0
+    },
+    {
+      "id": 58,
+      "nombre": "Growlithe",
+      "tipo": ["Fuego"],
+      "alt_metros": 0.7,
+      "peso_kg": 19.0
+    },
+    {
+      "id": 59,
+      "nombre": "Arcanine",
+      "tipo": ["Fuego"],
+      "alt_metros": 1.9,
+      "peso_kg": 155.0
+    },
+    {
+      "id": 60,
+      "nombre": "Poliwag",
+      "tipo": ["Agua"],
+      "alt_metros": 0.6,
+      "peso_kg": 12.4
+    },
+    {
+      "id": 61,
+      "nombre": "Poliwhirl",
+      "tipo": ["Agua"],
+      "alt_metros": 1.0,
+      "peso_kg": 20.0
+    },
+    {
+      "id": 62,
+      "nombre": "Poliwrath",
+      "tipo": ["Agua", "Lucha"],
+      "alt_metros": 1.3,
+      "peso_kg": 54.0
+    },
+    {
+      "id": 63,
+      "nombre": "Abra",
+      "tipo": ["Psiquico"],
+      "alt_metros": 0.9,
+      "peso_kg": 19.5
+    },
+    {
+      "id": 64,
+      "nombre": "Kadabra",
+      "tipo": ["Psiquico"],
+      "alt_metros": 1.3,
+      "peso_kg": 56.5
+    },
+    {
+      "id": 65,
+      "nombre": "Alakazam",
+      "tipo": ["Psiquico"],
+      "alt_metros": 1.5,
+      "peso_kg": 48.0
+    },
+    {
+      "id": 66,
+      "nombre": "Machop",
+      "tipo": ["Lucha"],
+      "alt_metros": 0.8,
+      "peso_kg": 19.5
+    },
+    {
+      "id": 67,
+      "nombre": "Machoke",
+      "tipo": ["Lucha"],
+      "alt_metros": 1.5,
+      "peso_kg": 70.5
+    },
+    {
+      "id": 68,
+      "nombre": "Machamp",
+      "tipo": ["Lucha"],
+      "alt_metros": 1.6,
+      "peso_kg": 130.0
+    },
+    {
+      "id": 69,
+      "nombre": "Bellsprout",
+      "tipo": ["Planta", "Veneno"],
+      "alt_metros": 0.7,
+      "peso_kg": 4.0
+    },
+    {
+      "id": 70,
+      "nombre": "Weepinbell",
+      "tipo": ["Planta", "Veneno"],
+      "alt_metros": 1.0,
+      "peso_kg": 6.4
+    },
+    {
+      "id": 71,
+      "nombre": "Victreebel",
+      "tipo": ["Planta", "Veneno"],
+      "alt_metros": 1.7,
+      "peso_kg": 15.5
+    },
+    {
+      "id": 72,
+      "nombre": "Tentacool",
+      "tipo": ["Agua", "Veneno"],
+      "alt_metros": 0.9,
+      "peso_kg": 45.5
+    },
+    {
+      "id": 73,
+      "nombre": "Tentacruel",
+      "tipo": ["Agua", "Veneno"],
+      "alt_metros": 1.6,
+      "peso_kg": 55.0
+    },
+    {
+      "id": 74,
+      "nombre": "Geodude",
+      "tipo": ["Roca", "Tierra"],
+      "alt_metros": 0.4,
+      "peso_kg": 20.0
+    },
+    {
+      "id": 75,
+      "nombre": "Graveler",
+      "tipo": ["Roca", "Tierra"],
+      "alt_metros": 1.0,
+      "peso_kg": 105.0
+    },
+    {
+      "id": 76,
+      "nombre": "Golem",
+      "tipo": ["Roca", "Tierra"],
+      "alt_metros": 1.4,
+      "peso_kg": 300.0
+    },
+    {
+      "id": 77,
+      "nombre": "Ponyta",
+      "tipo": ["Fuego"],
+      "alt_metros": 1.0,
+      "peso_kg": 30.0
+    },
+    {
+      "id": 78,
+      "nombre": "Rapidash",
+      "tipo": ["Fuego"],
+      "alt_metros": 1.7,
+      "peso_kg": 95.0
+    },
+    {
+      "id": 79,
+      "nombre": "Slowpoke",
+      "tipo": ["Agua", "Psiquico"],
+      "alt_metros": 1.2,
+      "peso_kg": 36.0
+    },
+    {
+      "id": 80,
+      "nombre": "Slowbro",
+      "tipo": ["Agua", "Psiquico"],
+      "alt_metros": 1.6,
+      "peso_kg": 78.5
+    },
+    {
+      "id": 81,
+      "nombre": "Magnemite",
+      "tipo": ["Electrico", "Acero"],
+      "alt_metros": 0.3,
+      "peso_kg": 6.0
+    },
+    {
+      "id": 82,
+      "nombre": "Magneton",
+      "tipo": ["Electrico", "Acero"],
+      "alt_metros": 1.0,
+      "peso_kg": 60.0
+    },
+    {
+      "id": 83,
+      "nombre": "Farfetch'd",
+      "tipo": ["Normal", "Volador"],
+      "alt_metros": 0.8,
+      "peso_kg": 15.0
+    },
+    {
+      "id": 84,
+      "nombre": "Doduo",
+      "tipo": ["Normal", "Volador"],
+      "alt_metros": 1.4,
+      "peso_kg": 39.2
+    },
+    {
+      "id": 85,
+      "nombre": "Dodrio",
+      "tipo": ["Normal", "Volador"],
+      "alt_metros": 1.8,
+      "peso_kg": 85.2
+    },
+    {
+      "id": 86,
+      "nombre": "Seel",
+      "tipo": ["Agua"],
+      "alt_metros": 1.1,
+      "peso_kg": 90.0
+    },
+    {
+      "id": 87,
+      "nombre": "Dewgong",
+      "tipo": ["Agua", "Hielo"],
+      "alt_metros": 1.7,
+      "peso_kg": 120.0
+    },
+    {
+      "id": 88,
+      "nombre": "Grimer",
+      "tipo": ["Veneno"],
+      "alt_metros": 0.9,
+      "peso_kg": 30.0
+    },
+    {
+      "id": 89,
+      "nombre": "Muk",
+      "tipo": ["Veneno"],
+      "alt_metros": 1.2,
+      "peso_kg": 30.0
+    },
+    {
+      "id": 90,
+      "nombre": "Shellder",
+      "tipo": ["Agua"],
+      "alt_metros": 0.3,
+      "peso_kg": 4.0
+    },
+    {
+      "id": 91,
+      "nombre": "Cloyster",
+      "tipo": ["Agua", "Hielo"],
+      "alt_metros": 1.5,
+      "peso_kg": 132.5
+    },
+    {
+      "id": 92,
+      "nombre": "Gastly",
+      "tipo": ["Fantasma", "Veneno"],
+      "alt_metros": 1.3,
+      "peso_kg": 0.1
+    },
+    {
+      "id": 93,
+      "nombre": "Haunter",
+      "tipo": ["Fantasma", "Veneno"],
+      "alt_metros": 1.6,
+      "peso_kg": 0.1
+    },
+    {
+      "id": 94,
+      "nombre": "Gengar",
+      "tipo": ["Fantasma", "Veneno"],
+      "alt_metros": 1.5,
+      "peso_kg": 40.5
+    },
+    {
+      "id": 95,
+      "nombre": "Onix",
+      "tipo": ["Roca", "Tierra"],
+      "alt_metros": 8.8,
+      "peso_kg": 210.0
+    },
+    {
+      "id": 96,
+      "nombre": "Drowzee",
+      "tipo": ["Psiquico"],
+      "alt_metros": 1.0,
+      "peso_kg": 32.4
+    },
+    {
+      "id": 97,
+      "nombre": "Hypno",
+      "tipo": ["Psiquico"],
+      "alt_metros": 1.6,
+      "peso_kg": 75.6
+    },
+    {
+      "id": 98,
+      "nombre": "Krabby",
+      "tipo": ["Agua"],
+      "alt_metros": 0.4,
+      "peso_kg": 6.5
+    },
+    {
+      "id": 99,
+      "nombre": "Kingler",
+      "tipo": ["Agua"],
+      "alt_metros": 1.3,
+      "peso_kg": 60.0
+    },
+    {
+      "id": 100,
+      "nombre": "Voltorb",
+      "tipo": ["Electrico"],
+      "alt_metros": 0.5,
+      "peso_kg": 10.4
+    },
+    {
+      "id": 101,
+      "nombre": "Electrode",
+      "tipo": ["Electrico"],
+      "alt_metros": 1.2,
+      "peso_kg": 66.6
+    },
+    {
+      "id": 102,
+      "nombre": "Exeggcute",
+      "tipo": ["Planta", "Psiquico"],
+      "alt_metros": 0.4,
+      "peso_kg": 2.5
+    },
+    {
+      "id": 103,
+      "nombre": "Exeggutor",
+      "tipo": ["Planta", "Psiquico"],
+      "alt_metros": 2.0,
+      "peso_kg": 120.0
+    },
+    {
+      "id": 104,
+      "nombre": "Cubone",
+      "tipo": ["Tierra"],
+      "alt_metros": 0.4,
+      "peso_kg": 6.5
+    },
+    {
+      "id": 105,
+      "nombre": "Marowak",
+      "tipo": ["Tierra"],
+      "alt_metros": 1.0,
+      "peso_kg": 45.0
+    },
+    {
+      "id": 106,
+      "nombre": "Hitmonlee",
+      "tipo": ["Lucha"],
+      "alt_metros": 1.5,
+      "peso_kg": 49.8
+    },
+    {
+      "id": 107,
+      "nombre": "Hitmonchan",
+      "tipo": ["Lucha"],
+      "alt_metros": 1.4,
+      "peso_kg": 50.2
+    },
+    {
+      "id": 108,
+      "nombre": "Lickitung",
+      "tipo": ["Normal"],
+      "alt_metros": 1.2,
+      "peso_kg": 65.5
+    },
+    {
+      "id": 109,
+      "nombre": "Koffing",
+      "tipo": ["Veneno"],
+      "alt_metros": 0.6,
+      "peso_kg": 1.0
+    },
+    {
+      "id": 110,
+      "nombre": "Weezing",
+      "tipo": ["Veneno"],
+      "alt_metros": 1.2,
+      "peso_kg": 9.5
+    },
+    {
+      "id": 111,
+      "nombre": "Rhyhorn",
+      "tipo": ["Tierra", "Roca"],
+      "alt_metros": 1.0,
+      "peso_kg": 115.0
+    },
+    {
+      "id": 112,
+      "nombre": "Rhydon",
+      "tipo": ["Tierra", "Roca"],
+      "alt_metros": 1.9,
+      "peso_kg": 120.0
+    },
+    {
+      "id": 113,
+      "nombre": "Chansey",
+      "tipo": ["Normal"],
+      "alt_metros": 1.1,
+      "peso_kg": 34.6
+    },
+    {
+      "id": 114,
+      "nombre": "Tangela",
+      "tipo": ["Planta"],
+      "alt_metros": 1.0,
+      "peso_kg": 35.0
+    },
+    {
+      "id": 115,
+      "nombre": "Kangaskhan",
+      "tipo": ["Normal"],
+      "alt_metros": 2.2,
+      "peso_kg": 80.0
+    },
+    {
+      "id": 116,
+      "nombre": "Horsea",
+      "tipo": ["Agua"],
+      "alt_metros": 0.4,
+      "peso_kg": 8.0
+    },
+    {
+      "id": 117,
+      "nombre": "Seadra",
+      "tipo": ["Agua"],
+      "alt_metros": 1.2,
+      "peso_kg": 25.0
+    },
+    {
+      "id": 118,
+      "nombre": "Goldeen",
+      "tipo": ["Agua"],
+      "alt_metros": 0.6,
+      "peso_kg": 15.0
+    },
+    {
+      "id": 119,
+      "nombre": "Seaking",
+      "tipo": ["Agua"],
+      "alt_metros": 1.3,
+      "peso_kg": 39.0
+    },
+    {
+      "id": 120,
+      "nombre": "Staryu",
+      "tipo": ["Agua"],
+      "alt_metros": 0.8,
+      "peso_kg": 34.5
+    },
+    {
+      "id": 121,
+      "nombre": "Starmie",
+      "tipo": ["Agua", "Psiquico"],
+      "alt_metros": 1.1,
+      "peso_kg": 80.0
+    },
+    {
+      "id": 122,
+      "nombre": "Mr. Mime",
+      "tipo": ["Psiquico"],
+      "alt_metros": 1.3,
+      "peso_kg": 54.5
+    },
+    {
+      "id": 123,
+      "nombre": "Scyther",
+      "tipo": ["Bicho", "Volador"],
+      "alt_metros": 1.5,
+      "peso_kg": 56.0
+    },
+    {
+      "id": 124,
+      "nombre": "Jynx",
+      "tipo": ["Hielo", "Psiquico"],
+      "alt_metros": 1.4,
+      "peso_kg": 40.6
+    },
+    {
+      "id": 125,
+      "nombre": "Electabuzz",
+      "tipo": ["Electrico"],
+      "alt_metros": 1.1,
+      "peso_kg": 30.0
+    },
+    {
+      "id": 126,
+      "nombre": "Magmar",
+      "tipo": ["Fuego"],
+      "alt_metros": 1.3,
+      "peso_kg": 44.5
+    },
+    {
+      "id": 127,
+      "nombre": "Pinsir",
+      "tipo": ["Bicho"],
+      "alt_metros": 1.5,
+      "peso_kg": 55.0
+    },
+    {
+      "id": 128,
+      "nombre": "Tauros",
+      "tipo": ["Normal"],
+      "alt_metros": 1.4,
+      "peso_kg": 88.4
+    },
+    {
+      "id": 129,
+      "nombre": "Magikarp",
+      "tipo": ["Agua"],
+      "alt_metros": 0.9,
+      "peso_kg": 10.0
+    },
+    {
+      "id": 130,
+      "nombre": "Gyarados",
+      "tipo": ["Agua", "Volador"],
+      "alt_metros": 6.5,
+      "peso_kg": 235.0
+    },
+    {
+      "id": 131,
+      "nombre": "Lapras",
+      "tipo": ["Agua", "Hielo"],
+      "alt_metros": 2.5,
+      "peso_kg": 220.0
+    },
+    {
+      "id": 132,
+      "nombre": "Ditto",
+      "tipo": ["Normal"],
+      "alt_metros": 0.3,
+      "peso_kg": 4.0
+    },
+    {
+      "id": 133,
+      "nombre": "Eevee",
+      "tipo": ["Normal"],
+      "alt_metros": 0.3,
+      "peso_kg": 6.5
+    },
+    {
+      "id": 134,
+      "nombre": "Vaporeon",
+      "tipo": ["Agua"],
+      "alt_metros": 1.0,
+      "peso_kg": 29.0
+    },
+    {
+      "id": 135,
+      "nombre": "Jolteon",
+      "tipo": ["Electrico"],
+      "alt_metros": 0.8,
+      "peso_kg": 24.5
+    },
+    {
+      "id": 136,
+      "nombre": "Flareon",
+      "tipo": ["Fuego"],
+      "alt_metros": 0.9,
+      "peso_kg": 25.0
+    },
+    {
+      "id": 137,
+      "nombre": "Porygon",
+      "tipo": ["Normal"],
+      "alt_metros": 0.8,
+      "peso_kg": 36.5
+    },
+    {
+      "id": 138,
+      "nombre": "Omanyte",
+      "tipo": ["Roca", "Agua"],
+      "alt_metros": 0.4,
+      "peso_kg": 7.5
+    },
+    {
+      "id": 139,
+      "nombre": "Omastar",
+      "tipo": ["Roca", "Agua"],
+      "alt_metros": 1.0,
+      "peso_kg": 35.0
+    },
+    {
+      "id": 140,
+      "nombre": "Kabuto",
+      "tipo": ["Roca", "Agua"],
+      "alt_metros": 0.5,
+      "peso_kg": 11.5
+    },
+    {
+      "id": 141,
+      "nombre": "Kabutops",
+      "tipo": ["Roca", "Agua"],
+      "alt_metros": 1.3,
+      "peso_kg": 40.5
+    },
+    {
+      "id": 142,
+      "nombre": "Aerodactyl",
+      "tipo": ["Roca", "Volador"],
+      "alt_metros": 1.8,
+      "peso_kg": 59.0
+    },
+    {
+      "id": 143,
+      "nombre": "Snorlax",
+      "tipo": ["Normal"],
+      "alt_metros": 2.1,
+      "peso_kg": 460.0
+    },
+    {
+      "id": 144,
+      "nombre": "Articuno",
+      "tipo": ["Hielo", "Volador"],
+      "alt_metros": 1.7,
+      "peso_kg": 55.4
+    },
+    {
+      "id": 145,
+      "nombre": "Zapdos",
+      "tipo": ["Electrico", "Volador"],
+      "alt_metros": 1.6,
+      "peso_kg": 52.6
+    },
+    {
+      "id": 146,
+      "nombre": "Moltres",
+      "tipo": ["Fuego", "Volador"],
+      "alt_metros": 2.0,
+      "peso_kg": 60.0
+    },
+    {
+      "id": 147,
+      "nombre": "Dratini",
+      "tipo": ["Dragón"],
+      "alt_metros": 1.8,
+      "peso_kg": 3.3
+    },
+    {
+      "id": 148,
+      "nombre": "Dragonair",
+      "tipo": ["Dragón"],
+      "alt_metros": 4.0,
+      "peso_kg": 16.5
+    },
+    {
+      "id": 149,
+      "nombre": "Dragonite",
+      "tipo": ["Dragón", "Volador"],
+      "alt_metros": 2.2,
+      "peso_kg": 210.0
+    },
+    {
+      "id": 150,
+      "nombre": "Mewtwo",
+      "tipo": ["Psiquico"],
+      "alt_metros": 2.0,
+      "peso_kg": 122.0
+    },
+    {
+      "id": 151,
+      "nombre": "Mew",
+      "tipo": ["Psiquico"],
+      "alt_metros": 0.4,
+      "peso_kg": 4.0
+    }
+    ]

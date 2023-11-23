@@ -1,0 +1,992 @@
+[
+      {
+        "nombre": "Brock",
+        "categoria": "Lider de gimnasio",
+        "ubicacion": "Ciudad Plateada",
+        "especializacion": "Tipo Roca",
+        "medalla": "Roca",
+        "equipo": [
+          {
+            "nombre": "Onix",
+            "tipo": [
+              "Roca",
+              "Tierra"
+            ],
+            "movimientos": [
+              "Placaje",
+              "Chirrido",
+              "Venganza"
+            ],
+            "nivel": 14
+          },
+          {
+            "nombre": "Geodude",
+            "tipo": [
+              "Roca",
+              "Tierra"
+            ],
+            "movimientos": [
+              "Placaje",
+              "Rizo defensa"
+            ],
+            "nivel": 12
+          }
+        ]
+      },
+      {
+        "nombre": "Misty",
+        "categoria": "Lider de gimnasio",
+        "ubicacion": "Ciudad Celeste",
+        "especializacion": "Tipo Agua",
+        "medalla": "Medalla Cascada",
+        "equipo": [
+          {
+            "nombre": "Starmie",
+            "tipo": [
+              "Agua",
+              "Psiquico"
+            ],
+            "movimientos": [
+              "Placaje",
+              "Pistola agua",
+              "Rayo burbuja"
+            ],
+            "nivel": 21
+          },
+          {
+            "nombre": "Staryu",
+            "tipo": [
+              "Agua"
+            ],
+            "movimientos": [
+              "Placaje",
+              "Pistola agua"
+            ],
+            "nivel": 18
+          }
+        ]
+      },
+      {
+        "nombre": "Lt. Surge",
+        "categoria": "Lider de gimnasio",
+        "ubicacion": "Ciudad Carmin",
+        "especializacion": "Tipo Electrico",
+        "medalla": "Trueno",
+        "equipo": [
+          {
+            "nombre": "Raichu",
+            "tipo": [
+              "Electrico"
+            ],
+            "movimientos": [
+              "Gruñido",
+              "Impactrueno",
+              "Rayo",
+              "Onda trueno"
+            ],
+            "nivel": 24
+          },
+          {
+            "nombre": "Voltorb",
+            "tipo": [
+              "Electrico"
+            ],
+            "movimientos": [
+              "Chirrido",
+              "Placaje",
+              "Bomba sonica"
+            ],
+            "nivel": 21
+          },
+          {
+            "nombre": "Pikachu",
+            "tipo": [
+              "Electrico"
+            ],
+            "movimientos": [
+              "Impactrueno",
+              "Gruñido",
+              "Ataque rapido",
+              "Onda trueno"
+            ],
+            "nivel": 18
+          }
+        ]
+      },
+      {
+        "nombre": "Erika",
+        "categoria": "Lider de gimnasio",
+        "ubicacion": "Ciudad Azulona",
+        "especializacion": "Tipo Planta",
+        "medalla": "Arcoiris",
+        "equipo": [
+          {
+            "nombre": "Vileplume",
+            "tipo": [
+              "Planta",
+              "Veneno"
+            ],
+            "movimientos": [
+              "Danza petalo",
+              "Megaagotar",
+              "Somnifero",
+              "Polvo veneno"
+            ],
+            "nivel": 29
+          },
+          {
+            "nombre": "Victreebel",
+            "tipo": [
+              "Planta",
+              "Veneno"
+            ],
+            "movimientos": [
+              "Constriccion",
+              "Polvo veneno",
+              "Somnifero",
+              "Hoja afilada"
+            ],
+            "nivel": 29
+          },
+          {
+            "nombre": "Tangela",
+            "tipo": [
+              "Planta"
+            ],
+            "movimientos": [
+              "Atadura",
+              "Restriccion",
+              "Megaagotar"
+            ],
+            "nivel": 24
+          }
+        ]
+      },
+      {
+        "nombre": "Koga",
+        "categoria": "Lider de gimnasio",
+        "ubicacion": "Ciudad Fucsia",
+        "especializacion": "Tipo Veneno",
+        "medalla": "Medalla Alma",
+        "equipo": [
+          {
+            "nombre": "Weezing",
+            "tipo": [
+              "Veneno"
+            ],
+            "movimientos": [
+              "Polucion",
+              "Toxico",
+              "Residuos",
+              "Autodestruccion"
+            ],
+            "nivel": 43
+          },
+          {
+            "nombre": "Muk",
+            "tipo": [
+              "Veneno"
+            ],
+            "movimientos": [
+              "Residuos",
+              "Gas venenoso",
+              "Anulacion",
+              "Reduccion"
+            ],
+            "nivel": 39
+          },
+          {
+            "nombre": "Koffing",
+            "tipo": [
+              "Veneno"
+            ],
+            "movimientos": [
+              "Residuos",
+              "Placaje",
+              "Polucion",
+              "Pantallahumo"
+            ],
+            "nivel": 37
+          },
+          {
+            "nombre": "Koffing",
+            "tipo": [
+              "Veneno"
+            ],
+            "movimientos": [
+              "Residuos",
+              "Placaje",
+              "Polucion",
+              "Pantallahumo"
+            ],
+            "nivel": 37
+          }
+        ]
+      },
+      {
+        "nombre": "Sabrina",
+        "categoria": "Lider de gimnasio",
+        "ubicacion": "Ciudad Azafran",
+        "especializacion": "Tipo Psiquico",
+        "medalla": "Medalla Pantano",
+        "equipo": [
+          {
+            "nombre": "Alakazam",
+            "tipo": [
+              "Psiquico"
+            ],
+            "movimientos": [
+              "Psicorrayo",
+              "Recuperacion",
+              "Psicoonda",
+              "Reflejo"
+            ],
+            "nivel": 43
+          },
+          {
+            "nombre": "Kadabra",
+            "tipo": [
+              "Psiquico"
+            ],
+            "movimientos": [
+              "Anulacion",
+              "Psicorrayo",
+              "Recuperacion",
+              "Psiquico"
+            ],
+            "nivel": 38
+          },
+          {
+            "nombre": "Venomoth",
+            "tipo": [
+              "Bicho",
+              "Veneno"
+            ],
+            "movimientos": [
+              "Polvo veneno",
+              "Chupavidas",
+              "Psicorrayo",
+              "Paralizador"
+            ],
+            "nivel": 38
+          },
+          {
+            "nombre": "Mr.Mime",
+            "tipo": [
+              "Psiquico"
+            ],
+            "movimientos": [
+              "Confusion",
+              "Barrera",
+              "Pantalla luz",
+              "Doblebofeton"
+            ],
+            "nivel": 37
+          }
+        ]
+      },
+      {
+        "nombre": "Blaine",
+        "categoria": "Lider de gimnasio",
+        "ubicacion": "Isla Canela",
+        "especializacion": "Tipo Fuego",
+        "medalla": "Medalla Volcan",
+        "equipo": [
+          {
+            "nombre": "Arcanine",
+            "tipo": [
+              "Fuego"
+            ],
+            "movimientos": [
+              "Llamarada",
+              "Ascuas",
+              "Derribo",
+              "Rugido"
+            ],
+            "nivel": 47
+          },
+          {
+            "nombre": "Rapidash",
+            "tipo": [
+              "Fuego"
+            ],
+            "movimientos": [
+              "Gruñido",
+              "Giro fuego",
+              "Latigo",
+              "Pisoton"
+            ],
+            "nivel": 42
+          },
+          {
+            "nombre": "Growlithe",
+            "tipo": [
+              "Fuego"
+            ],
+            "movimientos": [
+              "Malicioso",
+              "Ascuas",
+              "Derribo",
+              "Agilidad"
+            ],
+            "nivel": 42
+          },
+          {
+            "nombre": "Ponyta",
+            "tipo": [
+              "Fuego"
+            ],
+            "movimientos": [
+              "Giro fuego",
+              "Gruñido",
+              "Latigo",
+              "Pisoton"
+            ],
+            "nivel": 37
+          }
+        ]
+      },
+      {
+        "nombre": "Giovanni",
+        "categoria": "Lider de gimnasio",
+        "ubicacion": "Ciudad Verde",
+        "especializacion": "Tipo Tierra",
+        "medalla": "Medalla Tierra",
+        "equipo": [
+          {
+            "nombre": "Rhydon",
+            "tipo": [
+              "Tierra",
+              "Roca"
+            ],
+            "movimientos": [
+              "Pisoton",
+              "Fisura",
+              "Perforador",
+              "Latigo"
+            ],
+            "nivel": 50
+          },
+          {
+            "nombre": "Nidoking",
+            "tipo": [
+              "Veneno",
+              "Tierra"
+            ],
+            "movimientos": [
+              "Golpe",
+              "Picotazo veneno",
+              "Placaje",
+              "Cornada"
+            ],
+            "nivel": 45
+          },
+          {
+            "nombre": "Rhyhorn",
+            "tipo": [
+              "Tierra",
+              "Roca"
+            ],
+            "movimientos": [
+              "Pisoton",
+              "Latigo",
+              "Ataque furia",
+              "Cornada"
+            ],
+            "nivel": 45
+          },
+          {
+            "nombre": "Nidoqueen",
+            "tipo": [
+              "Veneno",
+              "Tierra"
+            ],
+            "movimientos": [
+              "Golpe Cuerpo",
+              "Arañazo",
+              "Picotazo veneno",
+              "Latigo"
+            ],
+            "nivel": 44
+          },
+          {
+            "nombre": "Dugtrio",
+            "tipo": [
+              "Tierra"
+            ],
+            "movimientos": [
+              "Cuchillada",
+              "Ataque arena",
+              "Excavar",
+              "Gruñido"
+            ],
+            "nivel": 42
+          }
+        ]
+      },
+      {
+        "nombre": "Lorelei",
+        "categoria": "Alto mando",
+        "especializacion": "Tipo Hielo",
+        "equipo": [
+          {
+            "nombre": "Lapras",
+            "tipo": [
+              "Agua",
+              "Hielo"
+            ],
+            "movimientos": [
+              "Golpe Cuerpo",
+              "Rayo confuso",
+              "Ventisca",
+              "Hidrobomba"
+            ],
+            "nivel": 56
+          },
+          {
+            "nombre": "Jynx",
+            "tipo": [
+              "Hielo",
+              "Psiquico"
+            ],
+            "movimientos": [
+              "Doblebofeton",
+              "Puño hielo",
+              "Golpe Cuerpo",
+              "Golpe"
+            ],
+            "nivel": 56
+          },
+          {
+            "nombre": "Slowbro",
+            "tipo": [
+              "Agua",
+              "Psiquico"
+            ],
+            "movimientos": [
+              "Gruñido",
+              "Pistola agua",
+              "Refugio",
+              "Amnesia"
+            ],
+            "nivel": 54
+          },
+          {
+            "nombre": "Dewgong",
+            "tipo": [
+              "Agua",
+              "Hielo"
+            ],
+            "movimientos": [
+              "Gruñido",
+              "Rayo aurora",
+              "Descanso",
+              "Derribo"
+            ],
+            "nivel": 54
+          },
+          {
+            "nombre": "Cloyster",
+            "tipo": [
+              "Agua",
+              "Hielo"
+            ],
+            "movimientos": [
+              "Supersonico",
+              "Tenaza",
+              "Rayo aurora",
+              "Clavo cañon"
+            ],
+            "nivel": 53
+          }
+        ]
+      },
+      {
+        "nombre": "Bruno",
+        "categoria": "Alto mando",
+        "especializacion": "Tipo Lucha",
+        "equipo": [
+          {
+            "nombre": "Machamp",
+            "tipo": [
+              "Lucha"
+            ],
+            "movimientos": [
+              "Malicioso",
+              "Foco energia",
+              "Fisura",
+              "Sumision"
+            ],
+            "nivel": 58
+          },
+          {
+            "nombre": "Onix",
+            "tipo": [
+              "Roca",
+              "Tierra"
+            ],
+            "movimientos": [
+              "Lanzarroca",
+              "Furia",
+              "Atizar",
+              "Fortaleza"
+            ],
+            "nivel": 56
+          },
+          {
+            "nombre": "Hitmonlee",
+            "tipo": [
+              "Lucha"
+            ],
+            "movimientos": [
+              "Patada salto",
+              "Foco energia",
+              "Patada salto alta",
+              "Megapatada"
+            ],
+            "nivel": 55
+          },
+          {
+            "nombre": "Hitmonchan",
+            "tipo": [
+              "Lucha"
+            ],
+            "movimientos": [
+              "Puño hielo",
+              "Puño trueno",
+              "Megapuño",
+              "Contador"
+            ],
+            "nivel": 55
+          },
+          {
+            "nombre": "Onix",
+            "tipo": [
+              "Roca",
+              "Tierra"
+            ],
+            "movimientos": [
+              "Lanzarroca",
+              "Furia",
+              "Atizar",
+              "Fortaleza"
+            ],
+            "nivel": 53
+          }
+        ]
+      },
+      {
+        "nombre": "Agatha",
+        "categoria": "Alto mando",
+        "especializacion": "Tipo Fantasma",
+        "equipo": [
+          {
+            "nombre": "Gengar",
+            "tipo": [
+              "Fantasma",
+              "Veneno"
+            ],
+            "movimientos": [
+              "Rayo confuso",
+              "Tinieblas",
+              "Toxico",
+              "Come sueños"
+            ],
+            "nivel": 60
+          },
+          {
+            "nombre": "Arbok",
+            "tipo": [
+              "Veneno"
+            ],
+            "movimientos": [
+              "Mordisco",
+              "Deslumbrar",
+              "Chirrido",
+              "Acido"
+            ],
+            "nivel": 58
+          },
+          {
+            "nombre": "Gengar",
+            "tipo": [
+              "Fantasma",
+              "Veneno"
+            ],
+            "movimientos": [
+              "Rayo confuso",
+              "Tinieblas",
+              "Hipnosis",
+              "Come sueños"
+            ],
+            "nivel": 56
+          },
+          {
+            "nombre": "Golbat",
+            "tipo": [
+              "Veneno",
+              "Volador"
+            ],
+            "movimientos": [
+              "Supersonico",
+              "Rayo confuso",
+              "Ataque ala",
+              "Niebla"
+            ],
+            "nivel": 56
+          },
+          {
+            "nombre": "Haunter",
+            "tipo": [
+              "Fantasma",
+              "Veneno"
+            ],
+            "movimientos": [
+              "Rayo confuso",
+              "Tinieblas",
+              "Hipnosis",
+              "Come sueños"
+            ],
+            "nivel": 55
+          }
+        ]
+      },
+      {
+        "nombre": "Lance",
+        "categoria": "Alto mando",
+        "especializacion": "Tipo Dragon",
+        "equipo": [
+          {
+            "nombre": "Dragonite",
+            "tipo": [
+              "Dragon",
+              "Volador"
+            ],
+            "movimientos": [
+              "Agilidad",
+              "Atizar",
+              "Barrera",
+              "Hiperrayo"
+            ],
+            "nivel": 62
+          },
+          {
+            "nombre": "Aerodactyl",
+            "tipo": [
+              "Roca",
+              "Volador"
+            ],
+            "movimientos": [
+              "Supersonico",
+              "Mordisco",
+              "Derribo",
+              "Hiperrayo"
+            ],
+            "nivel": 60
+          },
+          {
+            "nombre": "Gyarados",
+            "tipo": [
+              "Agua",
+              "Volador"
+            ],
+            "movimientos": [
+              "Furia dragon",
+              "Malicioso",
+              "Hidrobomba",
+              "Hiperrayo"
+            ],
+            "nivel": 58
+          },
+          {
+            "nombre": "Dragonair",
+            "tipo": [
+              "Dragon"
+            ],
+            "movimientos": [
+              "Agilidad",
+              "Atizar",
+              "Furia dragon",
+              "Hiperrayo"
+            ],
+            "nivel": 56
+          },
+          {
+            "nombre": "Dragonair",
+            "tipo": [
+              "Dragon"
+            ],
+            "movimientos": [
+              "Agilidad",
+              "Atizar",
+              "Furia dragon",
+              "Hiperrayo"
+            ],
+            "nivel": 56
+          }
+        ]
+      },
+      {
+        "nombre": "Azul Oak",
+        "categoria": "Campeon",
+        "especializacion": "Varios Tipos",
+        "anotacion": "Su equipo variara dependiendo de nuestro incial al empezar la aventura",
+        "equipo": [
+          {
+            "inicial_Bulbasaur": [
+              {
+                "nombre": "Charizard",
+                "tipo": [
+                  "Fuego",
+                  "Volador"
+                ],
+                "movimientos": [
+                  "Furia",
+                  "Cuchillada",
+                  "Llamarada",
+                  "Giro fuego"
+                ],
+                "nivel": 65
+              },
+              {
+                "nombre": "Gyarados",
+                "tipo": [
+                  "Agua",
+                  "Volador"
+                ],
+                "movimientos": [
+                  "Furia dragon",
+                  "Malicioso",
+                  "Hidrobomba",
+                  "Hiperrayo"
+                ],
+                "nivel": 63
+              },
+              {
+                "nombre": "Exeggutor",
+                "tipo": [
+                  "Planta",
+                  "Psiquico"
+                ],
+                "movimientos": [
+                  "Presa",
+                  "Hipnosis",
+                  "Pisoton"
+                ],
+                "nivel": 61
+              },
+              {
+                "nombre": "Rhydon",
+                "tipo": [
+                  "Tierra",
+                  "Roca"
+                ],
+                "movimientos": [
+                  "Latigo",
+                  "Ataque furia",
+                  "Perforador",
+                  "Malicioso"
+                ],
+                "nivel": 61
+              },
+              {
+                "nombre": "Pidgeot",
+                "tipo": [
+                  "Normal",
+                  "Volador"
+                ],
+                "movimientos": [
+                  "Remolino",
+                  "Ataque ala",
+                  "Ataque aereo",
+                  "Movimiento espejo"
+                ],
+                "nivel": 61
+              },
+              {
+                "nombre": "Alakazam",
+                "tipo": [
+                  "Psiquico"
+                ],
+                "movimientos": [
+                  "Psicorrayo",
+                  "Recuperacion",
+                  "Psiquico",
+                  "Reflejo"
+                ],
+                "nivel": 59
+              }
+            ]
+          },
+          {
+            "inicial_Charmander": [
+              {
+                "nombre": "Blastoise",
+                "tipo": [
+                  "Agua"
+                ],
+                "movimientos": [
+                  "Mordisco",
+                  "Refugio",
+                  "Ventisca",
+                  "Hidrobomba"
+                ],
+                "nivel": 65
+              },
+              {
+                "nombre": "Exeggutor",
+                "tipo": [
+                  "Planta",
+                  "Psiquico"
+                ],
+                "movimientos": [
+                  "Presa",
+                  "Hipnosis",
+                  "Pisoton"
+                ],
+                "nivel": 63
+              },
+              {
+                "nombre": "Arcanine",
+                "tipo": [
+                  "Fuego"
+                ],
+                "movimientos": [
+                  "Rugido",
+                  "Ascuas",
+                  "Malicioso",
+                  "Derribo"
+                ],
+                "nivel": 61
+              },
+              {
+                "nombre": "Rhydon",
+                "tipo": [
+                  "Tierra",
+                  "Roca"
+                ],
+                "movimientos": [
+                  "Latigo",
+                  "Ataque furia",
+                  "Perforador",
+                  "Malicioso"
+                ],
+                "nivel": 61
+              },
+              {
+                "nombre": "Pidgeot",
+                "tipo": [
+                  "Normal",
+                  "Volador"
+                ],
+                "movimientos": [
+                  "Remolino",
+                  "Ataque ala",
+                  "Ataque aereo",
+                  "Movimiento espejo"
+                ],
+                "nivel": 61
+              },
+              {
+                "nombre": "Alakazam",
+                "tipo": [
+                  "Psiquico"
+                ],
+                "movimientos": [
+                  "Psicorrayo",
+                  "Recuperacion",
+                  "Psiquico",
+                  "Reflejo"
+                ],
+                "nivel": 59
+              }
+            ]
+          },
+          {
+            "inicial_Squirtle": [
+              {
+                "nombre": "Venusaur",
+                "tipo": [
+                  "Planta",
+                  "Veneno"
+                ],
+                "movimientos": [
+                  "Hoja afilada",
+                  "Desarrollo",
+                  "Megaagotar",
+                  "Rayo solar"
+                ],
+                "nivel": 65
+              },
+              {
+                "nombre": "Arcanine",
+                "tipo": [
+                  "Fuego"
+                ],
+                "movimientos": [
+                  "Rugido",
+                  "Ascuas",
+                  "Malicioso",
+                  "Derribo"
+                ],
+                "nivel": 63
+              },
+              {
+                "nombre": "Gyarados",
+                "tipo": [
+                  "Agua",
+                  "Volador"
+                ],
+                "movimientos": [
+                  "Furia dragon",
+                  "Malicioso",
+                  "Hidrobomba",
+                  "Hiperrayo"
+                ],
+                "nivel": 61
+              },
+              {
+                "nombre": "Rhydon",
+                "tipo": [
+                  "Tierra",
+                  "Roca"
+                ],
+                "movimientos": [
+                  "Latigo",
+                  "Ataque furia",
+                  "Perforador",
+                  "Malicioso"
+                ],
+                "nivel": 61
+              },
+              {
+                "nombre": "Pidgeot",
+                "tipo": [
+                  "Normal",
+                  "Volador"
+                ],
+                "movimientos": [
+                  "Remolino",
+                  "Ataque ala",
+                  "Ataque aereo",
+                  "Movimiento espejo"
+                ],
+                "nivel": 61
+              },
+              {
+                "nombre": "Alakazam",
+                "tipo": [
+                  "Psiquico"
+                ],
+                "movimientos": [
+                  "Psicorrayo",
+                  "Recuperacion",
+                  "Psiquico",
+                  "Reflejo"
+                ],
+                "nivel": 59
+              }
+            ]
+          }
+        ]
+  }]

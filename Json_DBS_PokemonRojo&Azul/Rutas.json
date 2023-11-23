@@ -1,0 +1,602 @@
+[
+  {
+        "nombre": "Ruta 1",
+        "colindantes": {
+          "norte": "Ciudad Verde",
+          "sur": "Pueblo Paleta"
+        },
+        "pokemon_salvaje": {
+          "hierba_alta": [
+            {"nombre": "Pidgey", "nivel": [2, 3, 4, 5], "aparicion": "55%", "juego": "ambos"},
+            {"nombre": "Rattata", "nivel": [2, 3, 4], "aparicion": "45%", "juego": "ambos"}
+          ]},
+          "entrenadores": 0
+      },
+      {
+        "nombre": "Ruta 2",
+        "colindantes": {
+          "norte": "Ciudad Plateada",
+          "sur": "Ciudad Verde",
+          "centro": "Bosque Verde"
+        },
+        "pokemon_salvaje": {
+          "hierba_alta": [
+            {"nombre": "Weedle", "nivel": [3, 4, 5], "aparicion": "15%", "juego": "rojo"},
+            {"nombre": "Pidgey", "nivel": [3, 4, 5], "aparicion": "40%", "juego": "ambos"},
+            {"nombre": "Rattata", "nivel": [2, 3, 4, 5], "aparicion": "45%", "juego": "ambos"},
+            {"nombre": "Caterpie", "nivel": [3, 4, 5], "aparicion": "15%", "juego": "azul"}
+          ]},
+          "entrenadores": 0
+      },
+      {
+        "nombre": "Ruta 3",
+        "colindantes": {
+          "oeste": "Ciudad Plateada",
+          "este": "Monte Moon"
+        },
+        "pokemon_salvaje": {
+          "hierba_alta": [
+            {"nombre": "Pidgey", "nivel": [6, 7, 8], "aparicion": "50%", "juego": "ambos"},
+            {"nombre": "Spearow", "nivel": [5, 6, 7 ,8], "aparicion": "40%", "juego": "ambos"},
+            {"nombre": "Jigglypuff", "nivel": [3, 4, 5, 6, 7], "aparicion": "10%", "juego": "ambos"}
+          ]},
+          "entrenadores": 8
+      },
+      {
+        "nombre": "Ruta 4",
+        "colindantes": {
+          "oeste": "Monte Moon",
+          "este": "Ciudad Celeste"
+        },
+        "pokemon_salvaje": {
+          "hierba_alta": [
+            {"nombre": "Rattata", "nivel": [8, 9, 10, 11, 12], "aparicion": "45%", "juego": "ambos"},
+            {"nombre": "Spearow", "nivel": [8, 9, 10, 11, 12], "aparicion": "30%", "juego": "ambos"},
+            {"nombre": "Ekans", "nivel": [6, 7, 8, 9, 10, 11, 12], "aparicion": "25%", "juego": "rojo"},
+            {"nombre": "Sandshrew", "nivel": [6, 7, 8, 9, 10, 11, 12], "aparicion": "25%", "juego": "azul"}
+          ]},
+          "entrenadores": 1
+      },
+      {
+        "nombre": "Ruta 5",
+        "colindantes": {
+          "norte": "Ciudad Azafran",
+          "sur": "Ciudad Carmin"
+        },
+        "pokemon_salvaje": {
+          "hierba_alta": [
+              {"nombre": "Oddish", "nivel": [13, 14, 15, 16], "aparicion": "40%", "juego": "rojo"},
+              {"nombre": "Mankey", "nivel": [10, 11, 12, 13, 14, 15, 16], "aparicion": "25%", "juego": "rojo"},
+              {"nombre": "Pidgey", "nivel": [13, 14, 15, 16], "aparicion": "35%", "juego": "ambos"},
+              {"nombre": "Bellsprout", "nivel": [13, 14, 15, 16], "aparicion": "40%", "juego": "azul"},
+              {"nombre": "Meowth", "nivel": [10, 11, 12, 13, 14, 15, 16], "aparicion": "25%", "juego": "azul" }
+          ]},
+          "entrenadores": 0
+      },
+      {
+        "nombre": "Ruta 6",
+        "colindantes": {
+          "norte": "Ciudad Celeste",
+          "sur": "Ciudad Azafran"
+        },
+        "pokemon_salvaje": {
+          "hierba_alta": [
+          {"nombre": "Oddish", "nivel": [13, 14, 15, 16], "aparicion": "40%", "juego": "rojo"},
+          {"nombre": "Mankey", "nivel": [10, 11, 12, 13, 14, 15, 16], "aparicion": "25%", "juego": "rojo"},
+          {"nombre": "Pidgey", "nivel": [13, 14, 15, 16], "aparicion": "35%", "juego": "ambos"},
+          {"nombre": "Bellsprout", "nivel": [13, 14, 15, 16], "aparicion": "40%", "juego": "azul"},
+          {"nombre": "Meowth", "nivel": [10, 11, 12, 13, 14, 15, 16], "aparicion": "25%", "juego": "azul" }
+          ],
+          "pesca": {
+            "caña_vieja": [
+              {"nombre": "Magikarp", "nivel": [5], "aparicion": "100%", "juego": "ambos"}
+            ],
+            "caña_buena": [
+              {"nombre": "Poliwag", "nivel": [10], "aparicion": "50%", "juego": "ambos"},
+              {"nombre": "Goldeen", "nivel": [10], "aparicion": "50%", "juego": "ambos"}
+            ],
+            "supercaña": [
+              {"nombre": "Shellder", "nivel": [15], "aparicion": "50%", "juego": "ambos"},
+              {"nombre": "Krabby", "nivel": [15], "aparicion": "50%", "juego": "ambos" }
+            ]
+          }},
+          "entrenadores": 6
+      },
+      {
+        "nombre": "Ruta 7",
+        "colindantes": {
+          "oeste": "Ciudad Azulona",
+          "este": "Ciudad Azafran"
+        },
+        "pokemon_salvaje": {
+          "hierba_alta": [
+          {"nombre": "Mankey", "nivel": [17, 18, 19, 20], "aparicion": "30%", "juego": "rojo"},
+          {"nombre": "Oddish", "nivel": [19, 20, 21, 22], "aparicion": "25%", "juego": "rojo"},
+          {"nombre": "Growlithe", "nivel": [18, 19, 20], "aparicion": "10%", "juego": "rojo"},
+          {"nombre": "Pidgey", "nivel": [19, 20, 21, 22], "aparicion": "35%", "juego": "ambos"},
+          {"nombre": "Meowth", "nivel": [17, 18, 19, 20], "aparicion": "30%", "juego": "azul"},
+          {"nombre": "Bellsprout", "nivel": [19, 20, 21, 22], "aparicion": "25%", "juego": "azul"},
+          {"nombre": "Vulpix", "nivel": [18, 19, 20], "aparicion": "10%", "juego": "azul" }
+          ]},
+          "entrenadores": 0
+      },
+      {
+        "nombre": "Ruta 8",
+        "colindantes": {
+          "oeste": "Ciudad Azafran",
+          "este": "Pueblo Lavanda"
+        },
+        "pokemon_salvaje": {
+          "hierba_alta": [
+          {"nombre": "Mankey", "nivel": [18, 19, 20], "aparicion": "25%", "juego": "rojo"},
+          {"nombre": "Ekans", "nivel": [17, 18, 19], "aparicion": "20%", "juego": "rojo"},
+          {"nombre": "Growlithe", "nivel": [15, 16, 17, 18], "aparicion": "20%", "juego": "rojo"},
+          {"nombre": "Pidgey", "nivel": [18, 19, 20], "aparicion": "35%", "juego": "ambos"},
+          {"nombre": "Meowth", "nivel": [18, 19, 20], "aparicion": "25%", "juego": "azul"},
+          {"nombre": "Sandshrew", "nivel": [17, 18, 19], "aparicion": "20%", "juego": "azul"},
+          {"nombre": "Vulpix", "nivel": [15, 16, 17, 18], "aparicion": "20%", "juego": "azul" }
+          ]},
+          "entrenadores": 9
+      },
+      {
+        "nombre": "Ruta 9",
+        "colindantes": {
+          "oeste": "Ciudad Celeste",
+          "sur": "Ruta 10"
+        },
+        "pokemon_salvaje": {
+          "hierba_alta": [
+          {"nombre": "Ekans", "nivel": [11, 12, 13, 14, 15, 16, 17], "aparicion": "25%", "juego": "rojo"},
+          {"nombre": "Rattata", "nivel": [14, 15, 16, 17], "aparicion": "45%", "juego": "ambos"},
+          {"nombre": "Spearow", "nivel": [13, 14, 15, 16, 17], "aparicion": "30%", "juego": "ambos"},
+          {"nombre": "Sandshrew", "nivel": [11, 12, 13, 14, 15, 16, 17], "aparicion": "25%", "juego": "azul" }
+          ]},
+          "entrenadores": 9
+      },
+      {
+        "nombre": "Ruta 10",
+        "colindantes": {
+          "norte": "Ruta 10",
+          "sur": "Pueblo Lavanda"
+        },
+        "pokemon_salvaje": {
+          "hierba_alta": [
+          {"nombre": "Ekans", "nivel": [11, 12, 13, 14, 15, 16, 17], "aparicion": "25%", "juego": "rojo"},
+          {"nombre": "Sandshrew", "nivel": [11, 12, 13, 14, 15, 16, 17], "aparicion": "25%", "juego": "azul"},
+          {"nombre": "Spearow", "nivel": [13, 14, 15, 16, 17], "aparicion": "30%", "juego": "ambos"},
+          {"nombre": "Voltorb", "nivel": [14, 15, 16, 17], "aparicion": "45%", "juego": "azul" }
+          ]},
+          "entrenadores": 6
+      },
+      {
+        "nombre": "Ruta 11",
+        "colindantes": {
+          "oeste": "Ciudad Carmin",
+          "este": "Ruta 12"
+        },
+        "pokemon_salvaje": {
+            "hierba_alta": [
+            {"nombre": "Ekans", "nivel": [12, 13, 14, 15], "aparicion": "45%", "juego": "rojo"},
+            {"nombre": "Sandshrew", "nivel": [12, 13, 14, 15], "aparicion": "45%", "juego": "azul"},
+            {"nombre": "Spearow", "nivel": [13, 14, 15, 16, 17], "aparicion": "30%", "juego": "ambos"},
+            {"nombre": "Drowzee", "nivel": [9, 10, 11, 12, 13, 14, 15], "aparicion": "25%", "juego": "ambos"}
+            ],
+            "pesca": {
+              "caña_vieja": [
+                {"nombre": "Magikarp", "nivel": [5], "aparicion": "100%", "juego": "ambos"}
+              ],
+              "caña_buena": [
+                {"nombre": "Poliwag", "nivel": [10], "aparicion": "50%", "juego": "ambos"},
+                {"nombre": "Goldeen", "nivel": [10], "aparicion": "50%", "juego": "ambos"}
+              ],
+              "supercaña": [
+                {"nombre": "Shellder", "nivel": [15], "aparicion": "50%", "juego": "ambos"},
+                {"nombre": "Krabby", "nivel": [15], "aparicion": "50%", "juego": "ambos" }
+              ]
+            }},
+            "entrenadores": 10
+      },
+      {
+        "nombre": "Ruta 12",
+        "colindantes": {
+          "norte": "Pueblo Lavanda",
+          "oeste": "Ruta 11",
+          "sur": "Ruta 13"
+        },
+        "pokemon_salvaje": {
+            "hierba_alta": [
+            {"nombre": "Pidgey", "nivel": [23, 24, 25, 26, 27], "aparicion": "35%", "juego": "ambos"},
+            {"nombre": "Oddish", "nivel": [22, 23, 24, 25, 26], "aparicion": "40%", "juego": "rojo"},
+            {"nombre": "Gloom", "nivel": [28, 29, 30], "aparicion": "5%", "juego": "rojo"},
+            {"nombre": "Venonat", "nivel": [24, 25, 26], "aparicion": "20%", "juego": "ambos"},
+            {"nombre": "Bellsprout", "nivel": [22, 23, 24, 25, 26], "aparicion": "40%", "juego": "azul"},
+            {"nombre": "Weepinbell", "nivel": [28, 29, 30], "aparicion": "5%", "juego": "azul"}
+            ],
+            "pesca": {
+              "caña_vieja": [
+                {"nombre": "Magikarp", "nivel": [5], "aparicion": "100%", "juego": "ambos"}
+              ],
+              "caña_buena": [
+                {"nombre": "Poliwag", "nivel": [10], "aparicion": "50%", "juego": "ambos"},
+                {"nombre": "Goldeen", "nivel": [10], "aparicion": "50%", "juego": "ambos"}
+              ],
+              "supercaña": [
+                {"nombre": "Tentacool", "nivel": [5], "aparicion": "25%", "juego": "ambos"},
+                {"nombre": "Krabby", "nivel": [15], "aparicion": "25%", "juego": "ambos"},
+                {"nombre": "Goldeen", "nivel": [15], "aparicion": "25%", "juego": "ambos"},
+                {"nombre": "Magikarp", "nivel": [15], "aparicion": "25%", "juego": "ambos" }
+              ]
+            }},
+              "entrenadores": 7
+      },
+      {
+        "nombre": "Ruta 13",
+        "colindantes": {
+          "norte": "Rura 12",
+          "sur": "Ruta 14"
+        },
+        "pokemon_salvaje": {
+            "hierba_alta": [
+            {"nombre": "Pidgey", "nivel": [25, 26, 27], "aparicion": "30%", "juego": "ambos"},
+            {"nombre": "Oddish", "nivel": [22, 23, 24, 25, 26], "aparicion": "40%", "juego": "rojo"},
+            {"nombre": "Gloom", "nivel": [28, 29, 30], "aparicion": "5%", "juego": "rojo"},
+            {"nombre": "Venonat", "nivel": [24, 25, 26], "aparicion": "20%", "juego": "ambos"},
+            {"nombre": "Bellsprout", "nivel": [22, 23, 24, 25, 26], "aparicion": "40%", "juego": "azul"},
+            {"nombre": "Weepinbell", "nivel": [28, 29, 30], "aparicion": "5%", "juego": "azul"},
+            {"nombre": "Ditto", "nivel": [25], "aparicion": "5%", "juego": "ambos"}
+            ],
+            "pesca": {
+              "caña_vieja": [
+                {"nombre": "Magikarp", "nivel": [5], "aparicion": "100%", "juego": "ambos"}
+              ],
+              "caña_buena": [
+                {"nombre": "Poliwag", "nivel": [10], "aparicion": "50%", "juego": "ambos"},
+                {"nombre": "Goldeen", "nivel": [10], "aparicion": "50%", "juego": "ambos"}
+              ],
+              "supercaña": [
+                {"nombre": "Tentacool", "nivel": [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15], "aparicion": "25%", "juego": "ambos"},
+                {"nombre": "Krabby", "nivel": [15], "aparicion": "25%", "juego": "ambos"},
+                {"nombre": "Goldeen", "nivel": [15], "aparicion": "25%", "juego": "ambos"},
+                {"nombre": "Magikarp", "nivel": [15], "aparicion": "25%", "juego": "ambos" }
+              ]
+            }},
+              "entrenadores": 10
+      },
+      {
+        "nombre": "Ruta 14",
+        "colindantes": {
+          "norte": "Ruta 13",
+          "sur": "Ruta 15"
+        },
+        "pokemon_salvaje": {
+          "hierba_alta": [
+          {"nombre": "Pidgey", "nivel": [26], "aparicion": "25%", "juego": "ambos"},
+          {"nombre": "Pidgeotto", "nivel": [28, 29, 30], "aparicion": "20%", "juego": "ambos"},
+          {"nombre": "Oddish", "nivel": [22, 23, 24, 25, 26], "aparicion": "20%", "juego": "rojo"},
+          {"nombre": "Gloom", "nivel": [30], "aparicion": "5%", "juego": "rojo"},
+          {"nombre": "Venonat", "nivel": [24, 25, 26], "aparicion": "25%", "juego": "ambos"},
+          {"nombre": "Bellsprout", "nivel": [22, 23, 24, 25, 26], "aparicion": "40%", "juego": "azul"},
+          {"nombre": "Weepinbell", "nivel": [30], "aparicion": "5%", "juego": "azul"},
+          {"nombre": "Ditto", "nivel": [23], "aparicion": "5%", "juego": "ambos"}
+          ]},
+          "entrenadores": 10
+      },
+      {
+        "nombre": "Ruta 15",
+        "colindantes": {
+          "oeste": "Ciudad Fucsia",
+          "este": "Ruta 14"
+        },
+        "pokemon_salvaje": {
+          "hierba_alta": [
+          {"nombre": "Pidgey", "nivel": [26], "aparicion": "15%", "juego": "ambos"},
+          {"nombre": "Pidgeotto", "nivel": [28, 29, 30], "aparicion": "5%", "juego": "ambos"},
+          {"nombre": "Oddish", "nivel": [22, 23, 24, 25, 26], "aparicion": "40%", "juego": "rojo"},
+          {"nombre": "Gloom", "nivel": [30], "aparicion": "5%", "juego": "rojo"},
+          {"nombre": "Venonat", "nivel": [26, 27, 28], "aparicion": "20%", "juego": "ambos"},
+          {"nombre": "Bellsprout", "nivel": [22, 23, 24, 25, 26], "aparicion": "40%", "juego": "azul"},
+          {"nombre": "Weepinbell", "nivel": [30], "aparicion": "5%", "juego": "azul"},
+          {"nombre": "Ditto", "nivel": [26], "aparicion": "15%", "juego": "ambos"}
+          ]},
+          "entrenadores": 10
+      },
+      {
+        "nombre": "Ruta 16",
+        "colindantes": {
+          "sur": "Ruta 17",
+          "este": "Ciudad Azulona"
+        },
+        "pokemon_salvaje": {
+          "hierba_alta": [
+          {"nombre": "Rattata", "nivel": [18, 19, 20, 21, 22], "aparicion": "30%", "juego": "ambos"},
+          {"nombre": "Raticate", "nivel": [23, 24, 25], "aparicion": "5%", "juego": "ambos"},
+          {"nombre": "Spearow", "nivel": [20, 21, 22], "aparicion": "40%", "juego": "rojo"},
+          {"nombre": "Doduo", "nivel": [18, 19, 20, 21, 22], "aparicion": "25%", "juego": "ambos"}
+          ]},
+          "entrenadores": 6
+      },
+      {
+        "nombre": "Ruta 17",
+        "colindantes": {
+          "norte": "Ruta 16",
+          "sur": "Ruta 18"
+        },
+        "pokemon_salvaje": {
+            "hierba_alta": [
+            {"nombre": "Raticate", "nivel": [25, 26, 27, 28, 29], "aparicion": "30%", "juego": "ambos"},
+            {"nombre": "Spearow", "nivel": [20, 21, 22], "aparicion": "40%", "juego": "rojo"},
+            {"nombre": "Fearow", "nivel": [25, 26, 27], "aparicion": "5%", "juego": "rojo"},
+            {"nombre": "Doduo", "nivel": [24, 25, 26, 27, 28], "aparicion": "25%", "juego": "ambos"}
+            ],
+            "pesca": {
+              "caña_vieja": [
+                {"nombre": "Magikarp", "nivel": [5], "aparicion": "100%", "juego": "ambos"}
+              ],
+              "caña_buena": [
+                {"nombre": "Poliwag", "nivel": [10], "aparicion": "50%", "juego": "ambos"},
+                {"nombre": "Goldeen", "nivel": [10], "aparicion": "50%", "juego": "ambos"}
+              ],
+              "supercaña": [
+                {"nombre": "Tentacool", "nivel": [15], "aparicion": "25%", "juego": "ambos"},
+                {"nombre": "Krabby", "nivel": [15], "aparicion": "25%", "juego": "ambos"},
+                {"nombre": "Goldeen", "nivel": [15], "aparicion": "25%", "juego": "ambos"},
+                {"nombre": "Magikarp", "nivel": [15], "aparicion": "25%", "juego": "ambos" }
+              ]
+            }},
+              "entrenadores": 10
+      },
+      {
+        "nombre": "Ruta 18",
+        "colindantes": {
+          "norte": "Ruta 17",
+          "este": "Ciudad Fucsia"
+        },
+        "pokemon_salvaje": {
+            "hierba_alta": [
+            {"nombre": "Raticate", "nivel": [25, 26, 27, 28, 29], "aparicion": "20%", "juego": "ambos"},
+            {"nombre": "Spearow", "nivel": [20, 21, 22], "aparicion": "40%", "juego": "rojo"},
+            {"nombre": "Fearow", "nivel": [25, 26, 27, 28, 29], "aparicion": "15%", "juego": "rojo"},
+            {"nombre": "Doduo", "nivel": [24, 25, 26, 27, 28], "aparicion": "25%", "juego": "ambos"}
+            ],
+            "pesca": {
+              "caña_vieja": [
+                {"nombre": "Magikarp", "nivel": [5], "aparicion": "100%", "juego": "ambos"}
+              ],
+              "caña_buena": [
+                {"nombre": "Poliwag", "nivel": [10], "aparicion": "50%", "juego": "ambos"},
+                {"nombre": "Goldeen", "nivel": [10], "aparicion": "50%", "juego": "ambos"}
+              ],
+              "supercaña": [
+                {"nombre": "Tentacool", "nivel": [15], "aparicion": "25%", "juego": "ambos"},
+                {"nombre": "Krabby", "nivel": [15], "aparicion": "25%", "juego": "ambos"},
+                {"nombre": "Goldeen", "nivel": [15], "aparicion": "25%", "juego": "ambos"},
+                {"nombre": "Magikarp", "nivel": [15], "aparicion": "25%", "juego": "ambos" }
+              ]
+            }},
+              "entrenadores": 3
+      },
+      {
+        "nombre": "Ruta 19",
+        "colindantes": {
+          "norte": "Ciudad Fucsia",
+          "oeste": "Ruta 20"
+        },
+        "pokemon_salvaje": {
+            "surfeando": [
+            {"nombre": "Tentacool", "nivel": [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]
+            , "aparicion": "100%", "juego": "ambos"}
+            ],
+            "pesca": {
+              "caña_vieja": [
+                {"nombre": "Magikarp", "nivel": [5], "aparicion": "100%", "juego": "ambos"}
+              ],
+              "caña_buena": [
+                {"nombre": "Poliwag", "nivel": [10], "aparicion": "50%", "juego": "ambos"},
+                {"nombre": "Goldeen", "nivel": [10], "aparicion": "50%", "juego": "ambos"}
+              ],
+              "supercaña": [
+                {"nombre": "Shellder", "nivel": [15], "aparicion": "25%", "juego": "ambos"},
+                {"nombre": "Horsea", "nivel": [15], "aparicion": "25%", "juego": "ambos"},
+                {"nombre": "Goldeen", "nivel": [15], "aparicion": "25%", "juego": "ambos"},
+                {"nombre": "Staryu", "nivel": [15], "aparicion": "25%", "juego": "ambos" }
+              ]
+            }},
+              "entrenadores": 10
+      },
+      {
+        "nombre": "Ruta 20",
+        "colindantes": {
+          "oeste": "Isla Canela",
+          "centro": "Islas Espuma",
+          "este": "Ruta 19"
+        },
+        "pokemon_salvaje": {
+            "surfeando": [
+            {"nombre": "Tentacool", "nivel": [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]
+            , "aparicion": "100%", "juego": "ambos"}
+            ],
+            "pesca": {
+              "caña_vieja": [
+                {"nombre": "Magikarp", "nivel": [5], "aparicion": "100%", "juego": "ambos"}
+              ],
+              "caña_buena": [
+                {"nombre": "Poliwag", "nivel": [10], "aparicion": "50%", "juego": "ambos"},
+                {"nombre": "Goldeen", "nivel": [10], "aparicion": "50%", "juego": "ambos"}
+              ],
+              "supercaña": [
+                {"nombre": "Shellder", "nivel": [15], "aparicion": "25%", "juego": "ambos"},
+                {"nombre": "Horsea", "nivel": [15], "aparicion": "25%", "juego": "ambos"},
+                {"nombre": "Goldeen", "nivel": [15], "aparicion": "25%", "juego": "ambos"},
+                {"nombre": "Staryu", "nivel": [15], "aparicion": "25%", "juego": "ambos" }
+              ]
+            }},
+              "entrenadores": 10
+      },
+      {
+        "nombre": "Ruta 21",
+        "colindantes": {
+          "norte": "Pueblo Paleta",
+          "sur": "Isla Canela"
+        },
+        "pokemon_salvaje": {
+            "hierba_alta": [
+            {"nombre": "Pidgey", "nivel": [21, 22, 23], "aparicion": "25%", "juego": "ambos"},
+            {"nombre": "Pidgeotto", "nivel": [30, 31, 32], "aparicion": "15%", "juego": "ambos"},
+            {"nombre": "Rattata", "nivel": [21, 22, 23], "aparicion": "35%", "juego": "ambos"},
+            {"nombre": "Raticate", "nivel": [30], "aparicion": "25%", "juego": "ambos"},
+            {"nombre": "Tangela", "nivel": [28, 29, 30, 31, 32], "aparicion": "10%", "juego": "ambos"}
+            ],
+            "surfeando": [
+            {"nombre": "Tentacool", "nivel": [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]
+            , "aparicion": "100%", "juego": "ambos"}
+            ],
+            "pesca": {
+              "caña_vieja": [
+                {"nombre": "Magikarp", "nivel": [5], "aparicion": "100%", "juego": "ambos"}
+              ],
+              "caña_buena": [
+                {"nombre": "Poliwag", "nivel": [10], "aparicion": "50%", "juego": "ambos"},
+                {"nombre": "Goldeen", "nivel": [10], "aparicion": "50%", "juego": "ambos"}
+              ],
+              "supercaña": [
+                {"nombre": "Shellder", "nivel": [15], "aparicion": "25%", "juego": "ambos"},
+                {"nombre": "Horsea", "nivel": [15], "aparicion": "25%", "juego": "ambos"},
+                {"nombre": "Goldeen", "nivel": [15], "aparicion": "25%", "juego": "ambos"},
+                {"nombre": "Staryu", "nivel": [15], "aparicion": "25%", "juego": "ambos" }
+              ]
+            }},
+              "entrenadores": 9
+      },
+      {
+        "nombre": "Ruta 22",
+        "colindantes": {
+          "este": "Recepcion de la Liga Pokemon"
+        },
+        "pokemon_salvaje": {
+            "hierba_alta": [
+            {"nombre": "Rattata", "nivel": [2, 3, 4], "aparicion": "50%", "juego": "ambos"},
+            {"nombre": "Spearow", "nivel": [3, 4, 5], "aparicion": "10%", "juego": "ambos"},
+            {"nombre": "Nidoran Hembra", "nivel": [3, 4], "aparicion": "5%", "juego": "rojo"},
+            {"nombre": "Nidoran Hembra", "nivel": [2, 3, 4], "aparicion": "35%", "juego": "azul"},
+            {"nombre": "Nidoran Macho", "nivel": [2, 3, 4], "aparicion": "35%", "juego": "rojo"},
+            {"nombre": "Nidoran Macho", "nivel": [3, 4], "aparicion": "5%", "juego": "azul"}
+            ],
+            "pesca": {
+              "caña_vieja": [
+                {"nombre": "Magikarp", "nivel": [5], "aparicion": "100%", "juego": "ambos"}
+              ],
+              "caña_buena": [
+                {"nombre": "Poliwag", "nivel": [10], "aparicion": "50%", "juego": "ambos"},
+                {"nombre": "Goldeen", "nivel": [10], "aparicion": "50%", "juego": "ambos"}
+              ],
+              "supercaña": [
+                {"nombre": "Poliwag", "nivel": [15], "aparicion": "50%", "juego": "ambos"},
+                {"nombre": "Goldeen", "nivel": [15], "aparicion": "50%", "juego": "ambos" }
+              ]
+            }},
+              "entrenadores": 0
+      },
+      {
+        "nombre": "Ruta 23",
+        "colindantes": {
+          "norte": "Meseta Añil",
+          "centro":"Calle Victoria",
+          "sur": "Recepcion de la Liga Pokemon"
+        },
+        "pokemon_salvaje": {
+            "hierba_alta": [
+            {"nombre": "Spearow", "nivel": [26], "aparicion": "15%", "juego": "ambos"},
+            {"nombre": "Fearow", "nivel": [38, 39, 40, 41, 42, 43], "aparicion": "25%", "juego": "ambos"},
+            {"nombre": "Ekans", "nivel": [26], "aparicion": "25%", "juego": "rojo"},
+            {"nombre": "Arbok", "nivel": [41], "aparicion": "5%", "juego": "rojo"},
+            {"nombre": "Sandshrew", "nivel": [26], "aparicion": "25%", "juego": "azul"},
+            {"nombre": "Sandslash", "nivel": [41], "aparicion": "5%", "juego": "azul"},
+            {"nombre": "Ditto", "nivel": [33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43], "aparicion": "30%", "juego": "ambos"}
+            ],
+            "pesca": {
+              "caña_vieja": [
+                {"nombre": "Magikarp", "nivel": [5], "aparicion": "100%", "juego": "ambos"}
+              ],
+              "caña_buena": [
+                {"nombre": "Poliwag", "nivel": [10], "aparicion": "50%", "juego": "ambos"},
+                {"nombre": "Goldeen", "nivel": [10], "aparicion": "50%", "juego": "ambos"}
+              ],
+              "supercaña": [
+                {"nombre": "Slowbro", "nivel": [23], "aparicion": "25%", "juego": "ambos"},
+                {"nombre": "Kingler", "nivel": [23], "aparicion": "25%", "juego": "ambos"},
+                {"nombre": "Seadra", "nivel": [23], "aparicion": "25%", "juego": "ambos"},
+                {"nombre": "Seaking", "nivel": [23], "aparicion": "25%", "juego": "ambos" }
+              ]
+            }},
+              "entrenadores": 0
+      },
+      {
+        "nombre": "Ruta 24",
+        "colindantes": {
+          "oest": "Ruta 25",
+          "sur": "Ciudad Celeste"
+        },
+        "pokemon_salvaje": {
+            "hierba_alta": [
+            {"nombre": "Caterpie", "nivel": [7], "aparicion": "25%", "juego": "azul"},
+            {"nombre": "Metapod", "nivel": [8], "aparicion": "15%", "juego": "azul"},
+            {"nombre": "Weedle", "nivel": [7], "aparicion": "25%", "juego": "rojo"},
+            {"nombre": "Kakuna", "nivel": [8], "aparicion": "15%", "juego": "rojo"},
+            {"nombre": "Pidgey", "nivel": [12, 13], "aparicion": "20%", "juego": "ambos"},
+            {"nombre": "Oddish", "nivel": [12, 13, 14], "aparicion": "25%", "juego": "rojo"},
+            {"nombre": "Abra", "nivel": [8, 9, 10, 11, 12], "aparicion": "15%", "juego": "ambos"},
+            {"nombre": "Bellsprout", "nivel": [12, 13, 14], "aparicion": "25%", "juego": "azul"}
+            ],
+            "pesca": {
+              "caña_vieja": [
+                {"nombre": "Magikarp", "nivel": [5], "aparicion": "100%", "juego": "ambos"}
+              ],
+              "caña_buena": [
+                {"nombre": "Poliwag", "nivel": [10], "aparicion": "50%", "juego": "ambos"},
+                {"nombre": "Goldeen", "nivel": [10], "aparicion": "50%", "juego": "ambos"}
+              ],
+              "supercaña": [
+                {"nombre": "Psyduck", "nivel": [15], "aparicion": "33%", "juego": "ambos"},
+                {"nombre": "Krabby", "nivel": [15], "aparicion": "33%", "juego": "ambos"},
+                {"nombre": "Goldeen", "nivel": [15], "aparicion": "33%", "juego": "ambos" }
+              ]
+            }},
+              "entrenadores": 7
+      },
+      {
+        "nombre": "Ruta 25",
+        "colindantes": {
+          "sur": "Ruta 24"
+        },
+        "pokemon_salvaje": {
+            "hierba_alta": [
+            {"nombre": "Caterpie", "nivel": [8], "aparicion": "1%", "juego": "rojo"},
+            {"nombre": "Caterpie", "nivel": [8], "aparicion": "25%", "juego": "azul"},
+            {"nombre": "Metapod", "nivel": [7], "aparicion": "4%", "juego": "rojo"},
+            {"nombre": "Metapod", "nivel": [9], "aparicion": "15%", "juego": "azul"},
+            {"nombre": "Weedle", "nivel": [8], "aparicion": "25%", "juego": "rojo"},
+            {"nombre": "Weedle", "nivel": [8], "aparicion": "1%", "juego": "azul"},
+            {"nombre": "Kakuna", "nivel": [9], "aparicion": "15%", "juego": "rojo"},
+            {"nombre": "Kakuna", "nivel": [7], "aparicion": "4%", "juego": "azul"},
+            {"nombre": "Pidgey", "nivel": [13], "aparicion": "20%", "juego": "ambos"},
+            {"nombre": "Oddish", "nivel": [12, 13, 14], "aparicion": "25%", "juego": "rojo"},
+            {"nombre": "Abra", "nivel": [10, 11, 12], "aparicion": "15%", "juego": "ambos"},
+            {"nombre": "Bellsprout", "nivel": [12, 13, 14], "aparicion": "25%", "juego": "azul"}
+            ],
+            "pesca": {
+              "caña_vieja": [
+                {"nombre": "Magikarp", "nivel": [5], "aparicion": "100%", "juego": "ambos"}
+              ],
+              "caña_buena": [
+                {"nombre": "Poliwag", "nivel": [10], "aparicion": "50%", "juego": "ambos"},
+                {"nombre": "Goldeen", "nivel": [10], "aparicion": "50%", "juego": "ambos"}
+              ],
+              "supercaña": [
+                {"nombre": "Psyduck", "nivel": [15], "aparicion": "33%", "juego": "ambos"},
+                {"nombre": "Krabby", "nivel": [15], "aparicion": "33%", "juego": "ambos"},
+                {"nombre": "Goldeen", "nivel": [15], "aparicion": "33%", "juego": "ambos" }
+              ]
+            }},
+              "entrenadores": 9
+      }
+    ]
